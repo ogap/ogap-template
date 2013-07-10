@@ -1,8 +1,13 @@
+body
+{
+	overflow:hidden;
+}
+
 #content-highlight
 {
 	background-color:black;
 	background-size:cover;
-	height:170px;
+	height:150px;
 }
 
 .content-highlight
@@ -25,4 +30,47 @@
 	background-repeat:no-repeat;
 	background-size:cover;
 	height:85px;
+}
+
+
+.news_post
+{
+	padding-bottom:3%;
+	padding-top:3%;
+	height:50%;
+
+}
+.news_thumb
+{
+	background-image:url('img/gaming.jpg');
+	float:left;
+	margin-right:1%;
+	width:23%;
+	height:65%;
+
+}
+
+.news_content
+{
+	color:gray;
+}
+.news_highlight
+{
+	color:white;
+	letter-spacing:1px;
+	font-size:17px;
+}
+.news_title
+{
+	color:white;
+	font-weight:bold;
+	font-size:25px;
+}
+
+.content
+{
+	overflow-y:scroll;
+	height:70%;
+	width:106%;
+
 }

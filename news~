@@ -1,0 +1,42 @@
+<html>
+	<title> OGap </title>
+	<head>
+		<link rel='stylesheet' type='text/css' href='css/bootstrap.css'/>
+		<link rel='stylesheet' type='text/css' href='css/custom.css'/>
+	<head>
+	
+	<body style='background-color:black'>
+
+	<div class="navbar navbar-inverse">
+	  <div class="navbar-inner">
+	    <a class="brand" href="#" style='color:white'>O-Gap</a>
+	    <ul class="nav">
+	      <li><a href="#">Home</a></li>
+	      <li class="active"><a href="#">News</a></li>
+	      <li><a href="#">Feedback</a></li>
+	      <li><a href="#">About</a></li>
+	    </ul>
+	  </div>
+	</div>
+		
+		
+		<div class='container' >
+	
+		
+		<h2 class='text-center' style='color:white'>
+			News
+		</h2>
+
+
+	
+		<div class='navbar navbar-inverse navbar-fixed-bottom'>
+			<div class='navbar-inner'>
+				<p class='text-center' style='color:silver'>O-Gap (c) Copyrights 2013 <p>
+     			 </div>
+		</div>
+	</body>
+	<script src="http://code.jquery.com/jquery.js"></script>
+	<script type='text/javascript' src='js/bootstrap.js'></script>
+	</html>
+
+
